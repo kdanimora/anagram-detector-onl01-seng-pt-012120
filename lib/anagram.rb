@@ -2,4 +2,5 @@
 def Anagram 
   attr_accessor :word
  
+ words[].match 
 end 
