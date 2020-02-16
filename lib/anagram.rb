@@ -9,6 +9,6 @@ def Anagram
 
  
  def Array(match)
-   Array.find_all {|a| a.split('').sort == word.split('').sort}
+   Array.find_all {|e| e.split('').sort == word.split('').sort}
  end 
 end 
