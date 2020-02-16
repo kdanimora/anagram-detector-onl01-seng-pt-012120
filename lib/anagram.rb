@@ -7,6 +7,6 @@ def Anagram
  end 
  
  def Array(match)
-   
+   Array.find_all 
  end 
 end 
